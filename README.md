@@ -1,18 +1,18 @@
-Github
+Hi, I’m Sepehr 👋
 
-<!---
-Sepi-X/Sepi-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- 👋 Hi, I’m @Sepi-X
-- 👀 I’m interested in video games, AI, Analyzing Data, etc...  
-- 🌱 I’m currently learning OOP, Machine Learning, System Security, Data Mining
-- 💞️ I’m looking to collaborate on Creating Games and Developing AI
-- 📫 How to reach me https://www.linkedin.com/feed/
-- 😄 Pronouns: Sepi
-- ⚡ Fun fact: Your brain is constantly eating itself.
+Data Science MSc student at the University of Milano-Bicocca, with a BSc in Computer Science from the University of Messina (95/110). I like turning raw data (videos, sensor signals, logs) into clear, useful results.
 
-<!---
-Sepi-X/Sepi-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Projects
+Parkinson’s motor symptom analysis (VRRS): bachelor’s thesis. Python, OpenCV, MediaPipe, FFT, Kalman filter (coming soon)
+Smart Entry System: IoT access control with HMAC authentication, microservices, Docker Compose (coming soon)
+Task manager with Google Calendar sync: Java/Spring, Python, Kafka, Docker (coming soon)
+OOP Chess Game: Java, OOP, GUI
+Travel Website: PHP, MySQL, Docker
+🛠 Skills
+
+Python (pandas, NumPy, SciPy) · OpenCV · MediaPipe · SQL · MongoDB · Neo4j · Java · Docker · Kafka · Git
+
+📫 Contact
+
+https://www.linkedin.com/in/sepehr-mojdehdehbaher-5b485421a/ · sepehrbaher@gmail.com
+📍 Milan, Italy · Open to junior data roles and internships
