@@ -7,7 +7,7 @@ Data Science MSc student at the University of Milano-Bicocca, with a BSc in Comp
 - **[Markerless movement analysis for VR rehabilitation](https://github.com/Sepi-X/vrrs-movement-analysis)**: bachelor's thesis. Tracking and pose estimation on rehabilitation videos (50 participants, Parkinson's). Python, OpenCV, MediaPipe, Kalman filter, FFT
 - **[Smart Entry System](https://github.com/Sepi-X/smart-entry-system)**: IoT access control with HMAC-signed advertisements, replay protection and rate limiting. Python/Flask microservices, Docker Compose, 8 automated security tests
 - **[Task Manager (Java)](https://github.com/Sepi-X/task-manager-java)**: desktop app built around OOP design patterns (MVC, Command, Observer, Strategy, Singleton) with a multithreaded command queue. Java, Swing, automated tests
-- **Task manager with Google Calendar sync**: Java/Spring, Python, Kafka, Docker *(coming soon)*
+- **[Distributed Task Manager](https://github.com/Sepi-X/distributed-task-manager)**: event-driven microservices where the message broker acts as the gateway (Apache Kafka or a local broker), Google Calendar sync via OAuth 2.0, H2 database, role-based login. Java, Kafka, Maven, JUnit
 - **[OOP Chess Game](https://github.com/Sepi-X/OOP-Chess-Game)**: Java, OOP, GUI
 - **[Travel Website](https://github.com/Sepi-X/Travel-Website)**: PHP, MySQL, Docker
 
