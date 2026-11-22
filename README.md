@@ -4,7 +4,8 @@ Data Science MSc student at the University of Milano-Bicocca, with a BSc in Comp
 
 ## 🔭 Projects
 
-- **[Markerless movement analysis for VR rehabilitation](https://github.com/Sepi-X/vrrs-movement-analysis)**: bachelor's thesis. Tracking and pose estimation on rehabilitation videos (50 participants, Parkinson's). Python, OpenCV, MediaPipe, Kalman filter, FFT
+- **[Markerless movement analysis for VR rehabilitation](https://github.com/Sepi-X/vrrs-movement-analysis)**: bachelor's thesis. Tracking and pose estimation on rehabilitation videos (50 participants: 46 healthy volunteers, 4 with Parkinson's). Python, OpenCV, MediaPipe, Kalman filter, FFT
+- **[ML Model Comparison](https://github.com/Sepi-X/ml-classification-model-comparison)**: Machine Learning course team project (Messina, with Fatemeh Baghchei). Binary classification on 9,000 rows: 9 models, cross-validation, GridSearchCV tuning and SHAP; tuned Gradient Boosting reached F1 0.885 and ROC AUC 0.96. Python, scikit-learn, XGBoost
 - **[Student Dropout Risk Analysis](https://github.com/Sepi-X/student-dropout-risk-analysis)**: MSc Data Science course project (Milano-Bicocca). Dropout patterns across 100,000 students using vectorised pandas operations, a hand-built risk score, and an external GDP dataset join. Python, pandas, NumPy, Jupyter
 - **[Smart Entry System](https://github.com/Sepi-X/smart-entry-system)**: IoT access control with HMAC-signed advertisements, replay protection and rate limiting. Python/Flask microservices, Docker Compose, 8 automated security tests. Team project with Fatemeh Baghchei
 - **[Task Manager (Java)](https://github.com/Sepi-X/task-manager-java)**: desktop app built around OOP design patterns (MVC, Command, Observer, Strategy, Singleton) with a multithreaded command queue. Java, Swing, automated tests
@@ -14,7 +15,7 @@ Data Science MSc student at the University of Milano-Bicocca, with a BSc in Comp
 
 ## 🛠 Skills
 
-Python (pandas, NumPy, SciPy) · OpenCV · MediaPipe · SQL · MongoDB · Neo4j · Java · Docker · Kafka · Git
+Python (pandas, NumPy, SciPy, scikit-learn) · OpenCV · MediaPipe · SQL · MongoDB · Neo4j · Java · Docker · Kafka · Git
 
 ## 📫 Contact
 
